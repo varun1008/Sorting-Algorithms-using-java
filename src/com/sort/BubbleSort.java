@@ -1,4 +1,4 @@
-package com.dsa;
+package com.sort;
 
 public class BubbleSort {
     public static void main(String[] args) {
